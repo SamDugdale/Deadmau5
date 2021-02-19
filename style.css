@@ -4,13 +4,21 @@
   font-family: 'Big Shoulders Inline Display', cursive;
 }
 
-img {
-  object-fit: cover;
-  object-position: 100% 50%;
-  height: 50vh;
-}
-
 h1 {
   color: magenta;
  font-size: 400%;
+}
+
+h2 {
+   text-decoration: underline;
+}
+
+h3 {
+ font-family: cursive;
+}
+
+img {
+  object-fit: cover;
+  object-position: 100% 30%;
+  height: 40vh;
 }
