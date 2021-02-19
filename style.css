@@ -22,3 +22,11 @@ img {
   object-position: 100% 30%;
   height: 40vh;
 }
+
+p {
+ font-family: inherit;
+}
+
+li {
+ font-family: sans-serif;
+}
