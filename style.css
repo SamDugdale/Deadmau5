@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Inline+Display:wght@900&display=swap');
+
+.main-header {
+  font-family: 'Big Shoulders Inline Display', cursive;
+}
+
+img {
+  object-fit: cover;
+  object-position: 100% 50%;
+  height: 50vh;
+}
+
+h1 {
+  color: magenta;
+ font-size: 400%;
+}
