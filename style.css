@@ -30,3 +30,9 @@ p {
 li {
  font-family: sans-serif;
 }
+
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+}
